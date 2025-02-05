@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Megakiwi</string>
+    <string name="champion">Champion</string>
+    <string name="item">Item</string>
+    <string name="summoner">Summoner</string>
+</resources>
